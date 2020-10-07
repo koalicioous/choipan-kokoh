@@ -1,0 +1,116 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #3b3b3b
+}
+
+.navbar {
+    border-bottom: 1px solid #f0f0f0 !important;
+}
+
+.navbar-brand {
+    font-weight: bold !important;
+}
+
+.headline-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #4a4a4a;
+}
+
+.headline-title-2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #4a4a4a;
+}
+
+.headline-subtitle {
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: #6b6b6b;
+}
+
+.headline-subtitle-2 {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #6b6b6b;
+}
+
+.scalable {
+    transition: transform .1s;
+}
+
+.scalable:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+}
+
+.h-100 {
+    height: 100%;
+}
+
+.benefit-list {
+    list-style: none;
+    padding: 0;
+}
+
+.benefit-list li {
+    padding-bottom: 0.25rem;
+    margin-bottom: 0.5rem;
+    border-bottom: 1px solid #d4d4d4;
+}
+
+/* Card */
+.card {
+    border: none !important;
+    border-radius: 0.75rem !important;
+    padding: 1rem;
+}
+
+/* Border */
+.border-1 {
+    border-radius: 1rem !important;
+}
+
+.border-2 {
+    border-radius: 2rem !important;
+}
+
+/* Image */
+.image-100 {
+    width: 100%;
+    object-fit: cover;
+}
+
+.image-100s {
+    width: 100%; 
+    height: 25px;
+    object-fit: cover;
+}
+
+.image-50 {
+    width: 50px;
+}
+
+.top-down-border {
+    border-top: 1px solid #f0f0f0;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+/* Text Color */
+.text-orange {
+    color: #ffbe19;
+}
+
+/* Background */
+.bg-blue {
+    background-color: #adcbe0 !important;
+}
+
+.bg-orange {
+    background-color: #ffb60d;
+}
+
+.bg-light-navbar {
+    /* opacity: 0.75 !important; */
+    backdrop-filter: blur(15px) !important;
+}
