@@ -6,6 +6,10 @@
 
 module.exports = {
   /* Your site config here */
+  pathPrefix: `/`,
+  siteMetadata: {
+    siteUrl: `https://www.choipan.com`,
+  },
   plugins: [
     {
       resolve: `gatsby-plugin-prefetch-google-fonts`,
@@ -18,6 +22,7 @@ module.exports = {
         ]
       }
     },
-    'gatsby-plugin-react-helmet'
+    'gatsby-plugin-react-helmet',
+    'gatsby-plugin-sitemap'
   ],
 }

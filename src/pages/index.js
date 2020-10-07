@@ -12,6 +12,8 @@ import Product from '../components/sections/product'
 import Franchise from '../components/sections/franchise'
 import Footer from '../components/sections/bottom-cta'
 
+import Favicon from '../../static/favicon.ico'
+
 import Banner1 from '../img/banner-1.webp'
 
 
@@ -24,6 +26,7 @@ export default function Home() {
         <title>Choipan Dapoer Kokoh - Franchise Laris</title>
         <meta name="description" 
         content="Franchise Choipan khas Pontianak bareng Dapoer Kokoh! Balik dalam 1 bulan aja!"/>
+        <link rel="icon" href={Favicon} />
       </Helmet>
       <Headline />
       <Opportunity />

@@ -18,6 +18,8 @@
     "gatsby": "^2.24.67",
     "gatsby-plugin-prefetch-google-fonts": "^1.4.3",
     "gatsby-plugin-react-helmet": "^3.3.13",
+    "gatsby-plugin-sitemap": "^2.4.15",
+    "gatsby-source-filesystem": "^2.3.33",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1",
     "react": "^16.12.0",
