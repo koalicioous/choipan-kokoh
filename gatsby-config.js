@@ -22,6 +22,18 @@ module.exports = {
         ]
       }
     },
+    {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: {
+        trackingId: 'UA-180109701-1',
+      }
+    },
+    {
+      resolve: 'gatsby-plugin-facebook-pixel',
+      options: {
+        pixelId: '812121452924679'
+      }
+    },
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sitemap'
   ],

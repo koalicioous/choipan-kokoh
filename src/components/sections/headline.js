@@ -13,9 +13,9 @@ export default function Headline(){
                     Dimsum asli Kalimantan yang asli enak! Bisa bikin <b>balik modal dalam 1 bulan aja!</b>
                 </div>
                 <div className="headline-action my-3">
-                    <button className="btn btn-danger py-3 px-5 border-2 my-3 font-weight-bold">
+                    <a href="https://wa.link/23ruzz" target="_blank" className="btn btn-danger py-3 px-5 border-2 my-3 font-weight-bold">
                         Informasi Kemitraan
-                    </button>
+                    </a>
                 </div>
             </div>
             <div className="col-md-7 px-3">

@@ -18,9 +18,9 @@ export default function Card(props){
                     <span><small>Rp</small></span>{props.investasi}
                 </div>
                 <div>
-                    <button className="btn btn-outline-danger border-2 btn-block font-weight-bold">
+                    <a href={props.link} target="_blank" className="btn btn-outline-danger border-2 btn-block font-weight-bold">
                         Pesan
-                    </button>
+                    </a>
                 </div>
             </div>
         </div>

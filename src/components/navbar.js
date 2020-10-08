@@ -15,9 +15,9 @@ export default function navbar(props)
                 </div>
             </div>
             <div className="ml-auto d-none d-md-block">
-                <button className="btn btn-danger border-2 px-5 font-weight-bold">
+                <a href="https://wa.link/23ruzz" target="_blank" className="btn btn-danger border-2 px-5 font-weight-bold">
                     Jadi Mitra
-                </button>
+                </a>
             </div>
         </div>
     )

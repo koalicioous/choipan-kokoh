@@ -31,9 +31,9 @@ export default function products(){
                         Choipan kami makin lengkap dinikmati dengan saos asam pedas yang khas dan taburan bawang putih goreng yang membuat aroma Choipan Dapoer Kokoh semakin mengundang selera pelanggan.
                         </p>
                         <div className="mt-3">
-                            <button className="btn btn-danger py-2 px-5 border-2 font-weight-bold">
+                            <a href="https://wa.link/r43pwg" target="_blank" className="btn btn-danger py-2 px-5 border-2 font-weight-bold">
                                 Cobain Choipan
-                            </button>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -46,9 +46,9 @@ export default function products(){
                         Siapa yang tidak kenal jajanan yang satu ini? Gurihnya daging dan lembutnya tekstur dimsum membuatnya memiliki fans dan pangsa pasar yang besar. Selain itu, rasanya yang familiar dan saos yang menjadi pelengkapnya membuat dimsum semakin digemari.
                         </p>
                         <div>
-                            <button className="btn btn-danger py-2 px-5 border-2 font-weight-bold mt-3">
+                            <a href="https://wa.link/0np06g" target="_blank" className="btn btn-danger py-2 px-5 border-2 font-weight-bold mt-3">
                                 Cobain Dimsum
-                            </button>
+                            </a>
                         </div>
                     </div>
                     <div className="col-md-7 mt-3">

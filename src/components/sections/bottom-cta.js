@@ -11,9 +11,9 @@ export default function Bottom(){
                     Dapatkan harga promo Paket Juragan 3.9 Juta Rupiah khusus untuk 10 mitra pertama!!!
                 </div>
                 <div className="my-3">
-                    <button className="btn btn-dark border-2 py-3 px-5 font-weight-bold">
+                    <a href="https://wa.link/23ruzz" target="_blank" className="btn btn-dark border-2 py-3 px-5 font-weight-bold">
                         Info Lebih Lanjut, Klik di Sini!
-                    </button>
+                    </a>
                 </div>
             </div>
             <div className="my-2 text-center">

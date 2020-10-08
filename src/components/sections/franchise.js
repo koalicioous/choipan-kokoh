@@ -25,6 +25,7 @@ export default function franchise(){
                         image={Franchise1}
                         title="Paket Juragan"
                         investasi="5.9 Juta"
+                        link="https://wa.link/myv1o1"
                         benefits={['Paket jualan lengkap','Support materi marketing', 'Booth Portable']}
                     />
                 </div>
@@ -33,6 +34,7 @@ export default function franchise(){
                         image={Franchise2}
                         title="Paket Bossman"
                         investasi="11.9 Juta"
+                        link="https://wa.link/qi97f5"
                         benefits={['Paket jualan lengkap','Support materi marketing', 'Booth semi-premium', 'Social Media Ads', 'Subsidi Pengiriman']}
                     />
                 </div>
@@ -41,6 +43,7 @@ export default function franchise(){
                         image={Franchise3}
                         title="Paket Sultan"
                         investasi="14.9 Juta"
+                        link="https://wa.link/bprdo3"
                         benefits={['Paket jualan lengkap','Support materi marketing', 'Booth Premium','Budget endorsement foodies','Budget social media ads', 'Free pengiriman']}
                     />
                 </div>
